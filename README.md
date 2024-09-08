@@ -15,6 +15,8 @@ Aula 12
 - TAG < script > em arquivo HTML
 Aula 13
 - Variáveis com let, camelcase e casesensitive
+Aula 14
+- Constantes com const
 
 
 ## Repositório original para consulta
