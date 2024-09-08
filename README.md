@@ -28,6 +28,8 @@ Aula 16
 - const,let e template string + desafio IMC
 Aula 19 
 - TIPOS PRIMITIVOS: String, number, undefined, null e boolean
+Aula 20
+- Operadores Aritméticos, atribuição, incremento e decremento 
 
 
 ## Repositório original para consulta

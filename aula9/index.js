@@ -26,5 +26,5 @@ let sobreAluno = null; // Nulo -> não aponta para nenhum local na memória
 const aprovado = true;
 const brasileiro = false;
 
-console.log(typeof nome); // tipo da variável e valor da variável
+console.log(typeof nome,nome); // tipo da variável e valor da variável
 
