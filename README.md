@@ -15,5 +15,10 @@ Aula 8
 Aula 11
 - Comentários
 
-
+Aula 12
+- TAG < script > em arquivo HTML
 ## Repositório original para consulta
+https://github.com/luizomf/curso-js
+
+## Professor
+Tales Calogi Malaquias
